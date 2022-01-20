@@ -1,5 +1,5 @@
 # Youtube Stats MPV
-Shows Youtube stats in the MPV media player
+Shows Youtube stats (Views, Likes, Dislikes and Ratio) in the MPV media player
 
 ## Installation
 Put the `youtube-stats.lua` file into your mpv `scripts` folder.
